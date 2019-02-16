@@ -3,6 +3,8 @@
 
 @import "{{ site.theme }}";
 
+$vbtc-green: #9ADD7F;
+
 .site-header {
-  border-top: 5px solid #9ADD7F !important;
+  border-top: 5px solid $vbtc-green;
 }
