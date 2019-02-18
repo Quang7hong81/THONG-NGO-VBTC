@@ -15,6 +15,7 @@ rss: feed.xml
 
 google_analytics: UA-134715319-1
 
+permalink: /:year/:title/
 markdown: kramdown
 theme: minima
 plugins:
