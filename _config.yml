@@ -13,6 +13,8 @@ facebook_username: VBTC.vn
 github_username: vbtc
 rss: feed.xml
 
+google_analytics: UA-134715319-1
+
 markdown: kramdown
 theme: minima
 plugins:
