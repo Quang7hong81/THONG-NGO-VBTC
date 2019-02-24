@@ -4,7 +4,7 @@ title:  4 common exchange deceptions
 date:   2019-02-24 00:00:00 +0700
 ---
 
-When our team set out to launch VBTC as Vietnam’s first local Bitcoin trading floor almost 5 years ago, the Bitcoin world was a very different one from the one which we know today.
+When our team set out to launch [VBTC as Vietnam’s first local Bitcoin trading floor](https://www.vbtc.exchange) almost 5 years ago, the Bitcoin world was a very different one from the one which we know today.
 
 Mt. Gox was — with over 90% of the global trading volume — still dominating the global exchange landscape, even though the Chinese Exchanges led by a wide margin by BTCChina started to play a notable role as well from late 2013 on.
 
