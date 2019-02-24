@@ -15,18 +15,8 @@ rss: feed.xml
 
 google_analytics: UA-134715319-1
 
-permalink: /:year/:title/
+permalink: /:year/:categories/:title
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-
-exclude:
-  - .idea/
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
