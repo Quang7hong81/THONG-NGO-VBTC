@@ -7,7 +7,7 @@ Dear clients, friends and fellow Bitcoiners,
 
 Since 2014 the team of VBTC has been serving the Vietnamese market as Vietnam’s very first VND-BTC live trading platform.
 
-VBTC performed these functions as part of the Bitcoin Vietnam (BitcoinVN) team which had launched its BTC-VND retail brokerage service just a few months prior to the inception of VBTC.
+VBTC performed these functions as part of the Bitcoin Vietnam ([BitcoinVN](https://www.bitcoinvn.io)) team which had launched its BTC-VND retail brokerage service just a few months prior to the inception of VBTC.
 
 While VBTC still remains part of the larger BitcoinVN group, VBTC is operating as an independent sub-unit within the BitcoinVN ecosystem with its own balance sheet and its own strategic direction.
 
@@ -37,7 +37,7 @@ And we do not want to mislead people by giving them the impression that there ar
 
 We see ourselves in good company with this stance. Just recently Square and Twitter CEO [Jack Dorsey](https://breakermag.com/jack-dorsey-celebrates-bitcoin-then-drags-bitcoin-cash-ethereum-and-altcoins/) expressed that his companies will solely focus their efforts on Bitcoin, while a well-renowned tech visionary and contrarian investor such as [Peter Thiel](https://www.cnbc.com/2018/03/15/peter-thiel-is-betting-on-bitcoin-to-be-the-online-equivalent-to-gold.html) (who most recently correctly predicted the victory of Donald Trump in the US presidential elections against the prevailing mainstream narrative) stated that *"I would be long bitcoin, and neutral to skeptical of just about everything else at this point"*.
 
-With our decision to go “all in” Bitcoin we might not maximize our revenue in the short term, but we will be able to look int  the mirror knowing that we are doing the right thing.
+With our decision to go “all in” Bitcoin we might not maximize our revenue in the short term, but we will be able to look into  the mirror knowing that we are doing the right thing.
 
 Yours faithfully,
 

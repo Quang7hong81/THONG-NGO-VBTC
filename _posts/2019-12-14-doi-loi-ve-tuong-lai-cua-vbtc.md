@@ -7,7 +7,7 @@ Kính gửi khách hàng, bạn bè và những người đam mê Bitcoin,
 
 Kể từ năm 2014, đội ngũ của VBTC đã phục vụ Việt Nam với tư cách là sàn giao dịch Bitcoin đầu tiên.
 
-VBTC là một phần của các sản phẩm team Bitcoin Việt Nam (BitcoinVN), VBTC được ra mắt chỉ sau vài tháng dịch vụ giao dịch BTC/VNĐ của BitcoinVN ra đời.
+VBTC là một phần của các sản phẩm team Bitcoin Việt Nam ([BitcoinVN](www.bitcoinvn.io)), VBTC được ra mắt chỉ sau vài tháng dịch vụ giao dịch BTC/VNĐ của BitcoinVN ra đời.
 
 Gần đây, chúng tôi đã có những thay đổi về chiến lược cũng như cấu trúc của BitcoinVN. Cùng với đó, chúng tôi cho ra mắt BitcoinVN.Cloud giao dịch trực tiếp các cặp tiền điện tử với VNĐ. Hiện nay, chúng tôi đã phác thảo tầm nhìn về VBTC và hệ sinh thái Bitcoin mà chúng tôi phát triển.
 
