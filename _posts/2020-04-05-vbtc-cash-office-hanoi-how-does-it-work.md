@@ -6,4 +6,4 @@ If you are interested in utilizing this service, we made a small guidance graphi
 
 Your Team VBTC
 
-![](https://blog.vbtc.exchange/assets/posts/2020-04-05-vbtc-cash-office-hanoi-how-does-it-work/cash office-01-01.jpg)
+![](https://blog.vbtc.exchange/assets/img/cash-office-201117.jpg)
