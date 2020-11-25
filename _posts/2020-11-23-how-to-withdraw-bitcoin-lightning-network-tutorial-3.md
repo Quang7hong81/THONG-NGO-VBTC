@@ -17,20 +17,20 @@ First of all, you need to be able to have a Lightning Wallet.
 
 If you want to withdraw now from VBTC to your Lightning Wallet, create a Lightning invoice over the amount you are looking to withdraw.
 
-![](https://bitcoinsaigon.org/assets/posts/2020-11-23-how-to-withdraw-bitcoin-lightning-network-tutorial-3/image1.jpg)
+![](https://blog.vbtc.exchange/assets/posts/2020-11-23-how-to-withdraw-bitcoin-lightning-network-tutorial-3/image1.jpg)
 *Those screenshots are from [Eclair Wallet](https://bitcoin.org/en/wallets/mobile/android/eclairmobile/) - a Lightning Wallet for more advanced users*
 
 On VBTC, go to “Withdrawals” and click “Withdraw Bitcoin”.
 
-![](https://bitcoinsaigon.org/assets/posts/2020-11-23-how-to-withdraw-bitcoin-lightning-network-tutorial-3/image2.jpg)
+![](https://blog.vbtc.exchange/assets/posts/2020-11-23-how-to-withdraw-bitcoin-lightning-network-tutorial-3/image2.jpg)
 
 Choose option “Lightning Network”
 
-![](https://bitcoinsaigon.org/assets/posts/2020-11-23-how-to-withdraw-bitcoin-lightning-network-tutorial-3/image3.jpg)
+![](https://blog.vbtc.exchange/assets/posts/2020-11-23-how-to-withdraw-bitcoin-lightning-network-tutorial-3/image3.jpg)
 
 Enter the amount of Sats you are looking to withdraw and copy your matching Lightning invoice into the corresponding field.
 
-![](https://bitcoinsaigon.org/assets/posts/2020-11-23-how-to-withdraw-bitcoin-lightning-network-tutorial-3/image4.jpg)
+![](https://blog.vbtc.exchange/assets/posts/2020-11-23-how-to-withdraw-bitcoin-lightning-network-tutorial-3/image4.jpg)
 
 Please make sure that the amount you withdraw from VBTC and the amount you request via your Lightning Invoice are matching, otherwise the withdrawal can’t be processed.
 

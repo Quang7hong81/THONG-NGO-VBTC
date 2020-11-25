@@ -17,20 +17,20 @@ Nhưng làm sao để tôi bắt đầu sử dụng Mạng Lightning?
 
 Nếu bạn muốn rút từ VBTC đến ví Lightning của mình, hãy tạo một biên nhận Lightning (Lightning Invoice) với số lượng coin cần rút.
 
-![](https://bitcoinsaigon.org/assets/posts/2020-11-23-how-to-withdraw-bitcoin-lightning-network-tutorial-3/image1.jpg)
+![](https://blog.vbtc.exchange/assets/posts/2020-11-23-how-to-withdraw-bitcoin-lightning-network-tutorial-3/image1.jpg)
 *Những hình chụp màn hình này là từ [Eclair Wallet](https://bitcoin.org/en/wallets/mobile/android/eclairmobile/) - một loại ví Lightning cho người dùng đã quen sử dụng*
 
 Chọn trên VBTC mục “Rút” và bấm chọn “Rút Bitcoin”.
 
-![](https://bitcoinsaigon.org/assets/posts/2020-11-23-how-to-withdraw-bitcoin-lightning-network-tutorial-3/image2.jpg)
+![](https://blog.vbtc.exchange/assets/posts/2020-11-23-how-to-withdraw-bitcoin-lightning-network-tutorial-3/image2.jpg)
 
 Chọn vào mục “Mạng Lightning”
 
-![](https://bitcoinsaigon.org/assets/posts/2020-11-23-how-to-withdraw-bitcoin-lightning-network-tutorial-3/image3.jpg)
+![](https://blog.vbtc.exchange/assets/posts/2020-11-23-how-to-withdraw-bitcoin-lightning-network-tutorial-3/image3.jpg)
 
 Nhập số lượng coin bạn muốn rút và copy biên nhận Lightning vào mục tương ứng.
 
-![](https://bitcoinsaigon.org/assets/posts/2020-11-23-how-to-withdraw-bitcoin-lightning-network-tutorial-3/image4.jpg)
+![](https://blog.vbtc.exchange/assets/posts/2020-11-23-how-to-withdraw-bitcoin-lightning-network-tutorial-3/image4.jpg)
 
 Vui lòng đảm bảo rằng lượng coin rút từ VBTC và lượng coin yêu cầu qua Biên nhận Lightning là giống nhau, nếu không việc rút sẽ không được xử lí.
 
