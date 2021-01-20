@@ -52,6 +52,8 @@ Và thế là hoàn tất!
 
 Vì việc rút tiền được đội ngũ chúng tôi xử lý thủ công để bảo mật, nên việc rút tiền không diễn ra ngay lập tức nhưng thường sẽ đến ví của bạn vào mỗi cuối tuần, trong quá trình xử lý các khoản rút SegWit được lên lịch của khách hàng.
  
-*Địa chỉ không phải bc1… sẽ bị tính phí 0.0005 BTC vì không sử dụng định dạng giao dịch hiệu quả nhất về không gian khối.*
+**Địa chỉ không phải bc1… sẽ bị tính phí 0.0005 BTC vì không sử dụng định dạng giao dịch hiệu quả nhất về không gian khối.*
+
+---
 
 *Nếu bạn muốn tìm hiểu thêm về quá trình xử lý giao dịch Bitcoin, cách sử dụng mempool và “thị trường phí” và sống tại Việt Nam, chúng tôi gợi ý bạn nên tham gia [cộng đồng Bitcoin tại Sài Gòn](http://bitcoinsaigon.org/), nơi nhiều doanh nhân đang xây dựng các dịch vụ khác nhau trên Mạng Bitcoin.*
