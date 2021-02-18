@@ -52,7 +52,7 @@ And that’s it!
 
 Since withdrawals are processed manually by our team due to security reasons, the withdrawals are not instant but will generally arrive in your wallet each weekend during the processing of the accumulated Batched SegWit withdrawals for our VBTC clients.
  
-**Non-bc1… addresses will be charged a 0.00005 BTC withdrawal fee since they are not using the most block-space efficient transaction formatting.* 
+**Non-bc1… addresses will be charged an additional 0.00005 BTC withdrawal fee since they are not using the most block-space efficient transaction formatting.* 
 
 ---
 
