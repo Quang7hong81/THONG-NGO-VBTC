@@ -17,4 +17,4 @@ VBTC blog
     
 4. Preview your site:
 
-    [http://localhost:4000](http://localhost:4000)
+    [https://vbtc.exchange/]
