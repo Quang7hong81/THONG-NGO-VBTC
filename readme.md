@@ -1,4 +1,4 @@
-VBTC blog
+THONG NGO VBTC EXCHANGE
 =========
 
 ## Installation
