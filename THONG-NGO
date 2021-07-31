@@ -1,4 +1,4 @@
-# VBTC
+# THONG-NGO
 Official blog of the VBTC exchange
 title: The VBTC Blog
 
@@ -8,7 +8,7 @@ email: quangthong1011@gmail.com
 
 description: News and announcements regarding VBTC, the first Bitcoin live exchange in Vietnam
 
-baseurl: "/"
+baseurl: "https://vbtc.exchange"
 
 url: "https://vbtc.github.io"
 
@@ -32,7 +32,7 @@ plugins:
 
 exclude:
 
-  - .idea/
+  - .idea/90800003
 
   - Gemfile
 
