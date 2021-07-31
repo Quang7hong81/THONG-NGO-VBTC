@@ -1,10 +1,10 @@
-# vbtc.github.io configuration
-
+# THONG NGO
+vbtc.exchange
 title: VBTC Blog
-author: VBTC
-email: support@vbtc.vn
-description: News and announcements regarding VBTC, the first Bitcoin live exchange in Vietnam
-baseurl: "/"
+author: THONG NGO
+email: quangthong1011@gmail.com
+description: VBTC - Buy and sell Bitcoin in Vietnam
+baseurl: "https://vbtc.exchange"
 url: "https://vbtc.github.io"
 show_excerpts: true
 
